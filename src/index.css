@@ -138,7 +138,7 @@ header {
   border-right: 4px solid var(--main-color);
 }
 
-@media (min-width:375px) {
+@media (min-width:376px) {
   header {
     padding: 0;
     padding-left: 2.4375em;
@@ -185,7 +185,7 @@ header {
 
 }
 
-@media(min-width:768px) {
+@media(min-width:769px) {
   header {
     padding: 2.5em 0 0 3.4375em;
   }
@@ -337,7 +337,7 @@ header {
   cursor: pointer;
 }
 
-@media (min-width:375px) {
+@media (min-width:376px) {
   .home--body {
     background: #0B0D17 url("./assets/home/background-home-desktop.jpg");
   }
@@ -368,7 +368,7 @@ header {
   }
 }
 
-@media(min-width:768px) {
+@media(min-width:769px) {
   .home--body {
     background: #0B0D17 url("./assets/home/background-home-desktop.jpg")top center;
   }
@@ -523,7 +523,7 @@ header {
   font-weight: 400;
 }
 
-@media (min-width:375px) {
+@media (min-width:376px) {
   .destination--body {
     background: #0B0D17 url("./assets/destination/background-destination-tablet.jpg");
   }
@@ -594,7 +594,7 @@ header {
   }
 }
 
-@media(min-width:768px) {
+@media(min-width:769px) {
   .destination--body {
     background: #0B0D17 url("./assets/destination/background-destination-desktop.jpg");
   }
@@ -779,7 +779,7 @@ hr {
 }
 
 /*--------TABLET-CREW------*/
-@media (min-width:375px) {
+@media (min-width:376px) {
   .crew--body {
     background: #0B0D17 url("./assets/crew/background-crew-tablet.jpg");
     background-blend-mode: luminosity;
@@ -834,7 +834,7 @@ hr {
 }
 
 /*-----DESKTOP-CREW--------*/
-@media(min-width:768px) {
+@media(min-width:769px) {
 
   .crew--body {
     background: #0B0D17 url("./assets/crew/background-crew-desktop.jpg");
@@ -1030,7 +1030,7 @@ hr {
   color: var(--secondary-color);
 }
 
-@media (min-width:375px) {
+@media (min-width:376px) {
   .technology--body {
     background: #0B0D17 url("./assets/technology/background-technology-tablet.jpg");
   }
@@ -1087,7 +1087,7 @@ hr {
   }
 }
 
-@media(min-width:768px) {
+@media(min-width:769px) {
   .technology--body {
     background: #0B0D17 url("./assets/technology/background-technology-desktop.jpg");
   }
