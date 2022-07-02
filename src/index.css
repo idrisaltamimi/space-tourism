@@ -390,7 +390,6 @@ header {
     grid-row: 4;
     font-size: 9.375rem;
     justify-self: start;
-    color: red;
   }
 
   .description--home {
