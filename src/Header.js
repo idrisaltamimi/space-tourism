@@ -30,9 +30,9 @@ export default function Header() {
 
          <div className='line--header'></div>
 
-         {width >= 375 && <NavLinks toggleMenue={toggleMenue} />}
+         {width >= 376 && <NavLinks toggleMenue={toggleMenue} />}
 
-         {width < 375 && (isToggled ?
+         {width < 376 && (isToggled ?
             <ToggleNavBar
                isToggled={isToggled}
                toggleMenue={toggleMenue}
