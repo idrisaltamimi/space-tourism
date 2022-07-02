@@ -26,7 +26,6 @@ html {
 }
 
 body {
-  background: #0B0D17;
   margin: 0;
   padding: 0;
   min-height: 100%;
@@ -270,6 +269,7 @@ header {
 /*---------*/
 /*--Home--*/
 .home--body {
+  background: #0B0D17;
   background: url("./assets/home/background-home-mobile.jpg");
 }
 
@@ -340,7 +340,8 @@ header {
 
 @media (min-width:375px) {
   .home--body {
-    background: url("./assets/home/background-home-tablet.jpg");
+    background: #0B0D17;
+    background: url("./assets/home/background-home-desktop.jpg");
   }
 
   .home {
@@ -371,6 +372,7 @@ header {
 
 @media(min-width:768px) {
   .home--body {
+    background: #0B0D17;
     background: url("./assets/home/background-home-desktop.jpg")top center;
   }
 
@@ -427,8 +429,8 @@ header {
 /*----------------*/
 /*--Destination--*/
 .destination--body {
+  background: #0B0D17;
   background: url("./assets/destination/background-destination-mobile.jpg");
-
 }
 
 .destination {
@@ -527,6 +529,7 @@ header {
 
 @media (min-width:375px) {
   .destination--body {
+    background: #0B0D17;
     background: url("./assets/destination/background-destination-tablet.jpg");
   }
 
@@ -598,6 +601,7 @@ header {
 
 @media(min-width:768px) {
   .destination--body {
+    background: #0B0D17;
     background: url("./assets/destination/background-destination-desktop.jpg");
   }
 
@@ -697,6 +701,7 @@ header {
 /*---------*/
 /*--Crew--*/
 .crew--body {
+  background: #0B0D17;
   background: rgba(0, 0, 0, 0.25) url("./assets/crew/background-crew-mobile.jpg");
   background-blend-mode: multiply;
 }
@@ -783,6 +788,7 @@ hr {
 /*--------TABLET-CREW------*/
 @media (min-width:375px) {
   .crew--body {
+    background: #0B0D17;
     background: rgba(11, 13, 23, 0.25) url("./assets/crew/background-crew-tablet.jpg");
     background-blend-mode: multiply;
   }
@@ -838,6 +844,7 @@ hr {
 /*-----DESKTOP-CREW--------*/
 @media(min-width:768px) {
   .crew--body {
+    background: #0B0D17;
     background: rgba(11, 13, 23, .25) url("./assets/crew/background-crew-desktop.jpg");
     background-blend-mode: multiply;
   }
@@ -932,6 +939,7 @@ hr {
 /*---------------*/
 /*--Technology--*/
 .technology--body {
+  background: #0B0D17;
   background: url("./assets/technology/background-technology-mobile.jpg");
 }
 
@@ -1033,6 +1041,7 @@ hr {
 
 @media (min-width:375px) {
   .technology--body {
+    background: #0B0D17;
     background: url("./assets/technology/background-technology-tablet.jpg");
   }
 
@@ -1090,6 +1099,7 @@ hr {
 
 @media(min-width:768px) {
   .technology--body {
+    background: #0B0D17;
     background: url("./assets/technology/background-technology-desktop.jpg");
   }
 
